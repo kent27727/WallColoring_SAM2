@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fdb570b74b1697941bbda26c328b148a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270530
+  packageName: MobileSAM - Image Segmentation
+  packageVersion: 1.0.1
+  assetPath: Packages/com.doji.mobilesam/Samples~/01-BasicSample/DebugMarker.prefab
+  uploadId: 698524

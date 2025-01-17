@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8fc3c5a89063b6b45b713da1f87ba9e0
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270530
+  packageName: MobileSAM - Image Segmentation
+  packageVersion: 1.0.1
+  assetPath: Packages/com.doji.mobilesam/readme.md
+  uploadId: 698524

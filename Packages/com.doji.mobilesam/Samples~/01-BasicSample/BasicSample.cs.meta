@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5780a79aad6873b40957684d44cdf4f6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270530
+  packageName: MobileSAM - Image Segmentation
+  packageVersion: 1.0.1
+  assetPath: Packages/com.doji.mobilesam/Samples~/01-BasicSample/BasicSample.cs
+  uploadId: 698524

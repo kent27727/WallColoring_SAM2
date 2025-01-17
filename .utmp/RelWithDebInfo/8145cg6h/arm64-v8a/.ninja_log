@@ -1,0 +1,10 @@
+# ninja log v5
+23	822	7568282535652180	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	d9327be21ff58f5f
+14	830	7568282535732773	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	d7c71c2b270110f4
+33	859	7568282536026425	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	8b182f7fb6c91d42
+6	859	7568282536021361	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	7d749245f7382996
+28	913	7568282536615604	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	b73c2d429c03b335
+0	964	7568282537051610	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	55e6b5958457f7f6
+19	1090	7568282538347096	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	aff3024d3530251e
+9	1192	7568282539347661	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	8af1253d689b9849
+1192	1309	7568282540614839	C:/Users/enes1/Documents/GitHub/Panoramic_AR_Unity/WallColoring_SAM/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/8145cg6h/obj/arm64-v8a/libgame.so	5cf34385f20a979

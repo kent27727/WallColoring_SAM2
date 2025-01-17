@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c550b28974f35a7478d45d488669862c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270530
+  packageName: MobileSAM - Image Segmentation
+  packageVersion: 1.0.1
+  assetPath: Packages/com.doji.mobilesam/Runtime/Scripts/Utils/Transforms.cs
+  uploadId: 698524

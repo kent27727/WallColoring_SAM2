@@ -1,0 +1,2 @@
+C:\Users\enes1\Documents\GitHub\Panoramic_AR_Unity\WallColoring_SAM\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\enes1\Documents\GitHub\Panoramic_AR_Unity\WallColoring_SAM\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
